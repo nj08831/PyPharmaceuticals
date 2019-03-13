@@ -13,11 +13,11 @@ NOTE:  This dataset is high level and only covers what driver requests were fill
 NOTE:  This dataset is limited to only what rides went filled.  More data is needed to determine driver availability across each time period to identify the best opportunity time frames that drivers are needed.
 
 •	The average rider volume per day from January 1st  thru May 8th was 19.  Presidents Day Weekend, in particular showed an above average ride volume over each of the 3-Day weekend days, including Friday:
-Ride Volumes
-o	Friday:           21
-o	Saturday:         22
-o	Sunday:           29
-o	Monday:           29
+Ride Volumes <br>
+o	Friday:           21 <br>
+o	Saturday:         22 <br>
+o	Sunday:           29 <br>
+o	Monday:           29 <br>
 
 NOTE:  See above notation.  More data would be needed to see the filled ride rates on these peak days and holiday weekends and if demand is being met by the number of riders available.
 
